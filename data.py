@@ -4,5 +4,9 @@
 # License:
 
 class Data():
-	__init__():
-        print("Hello World!")
+	def __init__(self, name):
+		self.name = name
+
+	def return_name(self):
+		"""returns a string name"""
+		return f"Hello, {self.name}"
