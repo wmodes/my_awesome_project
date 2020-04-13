@@ -13,3 +13,4 @@ My awesome team project
 * cd into ../my_cst205_awesome_project
 * pip install -r requirements.txt
 
+Have fun!
