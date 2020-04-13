@@ -4,4 +4,5 @@
 # License:
 
 class Data():
-	
+	__init__():
+        print("Hello World!")
