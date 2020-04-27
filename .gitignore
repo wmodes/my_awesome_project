@@ -127,8 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Stupid mac shit
 .DS_Store
-Icon
-Icon
-Icon
 Icon
